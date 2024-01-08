@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #FFF7AE;
+    color:  #48284A;
+    padding: 5px 18px 5px 18px;
+    border-radius: 5px;
+    margin: 10px;
+}
+#colorId{
+    padding: 10px;
+    border-radius: 10px;
+    /* background-color: #FFF7AE; */
+}
+
